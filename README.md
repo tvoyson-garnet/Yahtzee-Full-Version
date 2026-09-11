@@ -239,3 +239,6 @@ This repository serves as the official landing page for Yahtzee. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Yahtzee today!**
+
+---
+**Last updated:** 2026-09-11 18:46:46 UTC
