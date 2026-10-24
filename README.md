@@ -241,4 +241,4 @@ This repository serves as the official landing page for Yahtzee. The software is
 **Get the most recent version of Yahtzee today!**
 
 ---
-**Last updated:** 2026-10-24 07:38:11 UTC
+**Last updated:** 2026-10-24 12:15:57 UTC
